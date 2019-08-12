@@ -1,14 +1,1 @@
-var entered=false;
-function ente(){
-	var entcode = prompt("Введите код для входа");
-	if(entcode=="я лох"){
-		document.getElementById("ent").style.display="none";
-		document.getElementById("reg").style.display="none";
-		document.getElementById("entered").style.display="inline";
-		entered=true;
-	}
-}
-function regi(){
-	var entpass = prompt("Введите ФИО");
-	alert("Добро пожаловать " +entpass+"\nКод для входа:\"я лох\"");
-}
+var _0x1fa0=['Введите\x20ФИО','Добро\x20пожаловать\x20','\x0aКод\x20для\x20входа:\x22я\x20лох\x22','Для\x20получения\x20премиум\x20кода\x20нужно\x0aпозвонить\x20на\x20+79081028371\x20и\x20сказать\x20\x22Я\x20хочу\x20премиум\x20ключ\x20на\x20сайте\x20olenka69.github.io\x22','Введите\x20премиум\x20код','Введите\x20номер\x20телефона\x0aМы\x20перезвоним\x20вам\x20в\x20течении\x2020\x20минут','Введите\x20код\x20для\x20входа','я\x20лох','getElementById','ent','style','display','none','reg','entered','inline'];(function(_0xdeeeb0,_0x394117){var _0x1dd40b=function(_0x3837a7){while(--_0x3837a7){_0xdeeeb0['push'](_0xdeeeb0['shift']());}};_0x1dd40b(++_0x394117);}(_0x1fa0,0xa6));var _0xe4a3=function(_0x14f2f7,_0x4e07c5){_0x14f2f7=_0x14f2f7-0x0;var _0x47a9bb=_0x1fa0[_0x14f2f7];return _0x47a9bb;};var entered=![];function ente(){var _0x41c3ba=prompt(_0xe4a3('0x0'));if(_0x41c3ba==_0xe4a3('0x1')){document[_0xe4a3('0x2')](_0xe4a3('0x3'))[_0xe4a3('0x4')][_0xe4a3('0x5')]=_0xe4a3('0x6');document[_0xe4a3('0x2')](_0xe4a3('0x7'))[_0xe4a3('0x4')][_0xe4a3('0x5')]=_0xe4a3('0x6');document[_0xe4a3('0x2')](_0xe4a3('0x8'))[_0xe4a3('0x4')][_0xe4a3('0x5')]=_0xe4a3('0x9');document[_0xe4a3('0x2')]('prem')[_0xe4a3('0x4')][_0xe4a3('0x5')]=_0xe4a3('0x9');entered=!![];}}function regi(){var _0x195898=prompt(_0xe4a3('0xa'));alert(_0xe4a3('0xb')+_0x195898+_0xe4a3('0xc'));}function getprem(){alert(_0xe4a3('0xd'));var _0x2fa6be=prompt(_0xe4a3('0xe'));}function getzak(){var _0x28c80b=prompt(_0xe4a3('0xf'));}
